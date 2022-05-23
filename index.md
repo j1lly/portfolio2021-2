@@ -12,6 +12,7 @@ https://github.com/j1lly/portfolio2021-2/blob/eab431569a3c86fa416969238a01b70979
 ### x's & o's
 simple tic tac toe game
 
+https://github.com/j1lly/portfolio2021-2/blob/b9482aec8ec8ffd47524b88f4a2e285b5eb7518c/x_s_o_s.pde
 
 ## java projects
 
